@@ -1,6 +1,6 @@
 const { documentToHtmlString } = require("@contentful/rich-text-html-renderer")
 const { getGatsbyImageResolver } = require("gatsby-plugin-image/graphql-utils")
-
+console.log(process.env)
 exports.createSchemaCustomization = async ({ actions }) => {
   actions.createFieldExtension({
     name: "blocktype",
