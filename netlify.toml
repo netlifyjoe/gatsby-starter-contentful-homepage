@@ -1,2 +1,2 @@
 [dev]
-command="gatsby develop"
+  command="gatsby develop"

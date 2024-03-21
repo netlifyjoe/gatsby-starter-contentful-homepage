@@ -1767,6 +1767,11 @@
   resolved "https://registry.yarnpkg.com/@msgpackr-extract/msgpackr-extract-win32-x64/-/msgpackr-extract-win32-x64-3.0.2.tgz#0f164b726869f71da3c594171df5ebc1c4b0a407"
   integrity sha512-O+6Gs8UeDbyFpbSh2CPEz/UOrrdWPTBYNblZK5CxxLisYt4kGX3Sc+czffFonyjiGSq3jWLwJS/CCJc7tBr4sQ==
 
+"@netlify/edge-functions@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@netlify/edge-functions/-/edge-functions-2.3.1.tgz#45dc30894e57948b47a6b4fe6f05f664ec55716c"
+  integrity sha512-3sJzP1DmzMZppkAZpUixdHA4ryiKD1NSpLMRViYStE9Oe10rZPSnM8yl6A90vTBqCYvbAF5S7W9oPf2ucrCCIQ==
+
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz#dbf733a965ca47b1973177dc0bb6c889edcfb129"
