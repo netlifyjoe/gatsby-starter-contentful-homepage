@@ -4,4 +4,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self'; frame-ancestors https://app.contentful.com; form-action 'self'"
+    Content-Security-Policy = "frame-ancestors https://app.contentful.com;"
