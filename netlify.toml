@@ -1,2 +1,7 @@
 [dev]
   command="gatsby develop"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; frame-ancestors 'self https://app.contentful.com'; form-action 'self'"
